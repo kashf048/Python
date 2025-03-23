@@ -10,4 +10,4 @@ match input("Do this or that? "):
     case "that":
         do_that()
     case _:
-        print("Invalid ")
+        print("Invalid input!")
